@@ -14,7 +14,7 @@ Feel free to change the hyperparameters in the dictionary 'para'
 python3 train_SSL.py
 ```
 
-## Reference
+## Reference:
 
 https://keras.io/examples/vision/semisupervised_simclr/
 
